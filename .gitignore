@@ -1,3 +1,13 @@
 .idea/
+.vs/
 target/
-SeleniumProject.iml
+packages/
+*.iml
+*.sln
+cSeleniumSharp/App.config
+cSeleniumSharp/ClassDiagram1.cd
+cSeleniumSharp/Properties/
+cSeleniumSharp/bin/
+cSeleniumSharp/cSeleniumSharp.csproj
+cSeleniumSharp/cSeleniumSharp.csproj.user
+cSeleniumSharp/obj/
